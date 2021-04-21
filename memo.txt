@@ -1,0 +1,6 @@
+# npm i -g @vue/cli
+# vue create pj_trapp_vue
+# cd pj_trapp_vue
+# npm install vue-router --save
+# npm install vue bootstrap-vue bootstrap
+# npm run serve
